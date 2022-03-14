@@ -1,1 +1,1 @@
-# Exel-course
+# Excel-course
